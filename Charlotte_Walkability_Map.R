@@ -1,6 +1,6 @@
 # Walking in Charlotte: 
 # Using Sidewalk Network Analysis to Measure Residential Access to Amenities
-# Cheyne Campbell
+# Cheyne J Campbell
 
 #---------------------------------------------------------------------------------
 # UPLOAD LIBRARIES
